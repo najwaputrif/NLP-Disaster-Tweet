@@ -5,7 +5,6 @@ This project is part of the **Data Mining & Business Intelligence** course assig
 The case study is based on the following Kaggle competition:  
 [**Natural Language Processing with Disaster Tweets**](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
----
 
 ## 🧠 Project Description
 
@@ -67,7 +66,6 @@ All models were evaluated using:
 This allowed us to compare both traditional and deep learning models comprehensively to select the best-performing approach.
 
 
----
 
 ## 📁 Folder Structure
 
@@ -82,7 +80,6 @@ This allowed us to compare both traditional and deep learning models comprehensi
  ┗ 📜README.md
 ```
 
----
 
 ## 🚀 How to Run
 
@@ -103,7 +100,6 @@ This allowed us to compare both traditional and deep learning models comprehensi
 
 4. Run the notebook sequentially to replicate preprocessing, modeling, and final prediction steps.
 
----
 
 ## 📌 Additional Notes
 
