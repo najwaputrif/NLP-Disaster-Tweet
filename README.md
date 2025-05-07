@@ -5,7 +5,6 @@ This project is part of the **Data Mining & Business Intelligence** course assig
 The case study is based on the following Kaggle competition:  
 [**Natural Language Processing with Disaster Tweets**](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
----
 
 ## 🧠 Project Description
 
@@ -19,7 +18,7 @@ The overall project workflow includes:
 - **Text Preprocessing:** Removing noise such as URLs, HTML tags, special characters, and stopwords; converting to lowercase; applying lemmatization and stemming.
 - **Feature Extraction:** Using **TF-IDF (Term Frequency–Inverse Document Frequency)** to convert text into feature vectors.
 
----
+
 
 ### 🧪 Modeling
 
@@ -48,7 +47,6 @@ We combined the three best-performing models using a **Voting Classifier**:
 
 This ensemble approach leverages the strengths of each model to enhance robustness and generalization.
 
----
 
 ### 🤖 Final Model – BERT
 
@@ -62,7 +60,6 @@ Implementation details:
 
 BERT significantly improved contextual understanding and helped capture nuanced meanings in tweets.
 
----
 
 ### 🏁 Evaluation Metrics
 
@@ -74,7 +71,6 @@ All models were evaluated using the following metrics:
 
 This allowed for comprehensive performance comparison between traditional and deep learning models.
 
----
 
 ## 📁 Folder Structure
 
@@ -95,7 +91,7 @@ This allowed for comprehensive performance comparison between traditional and de
 > View the full Jupyter Notebook on Google Colab:  
 > 👉 [Open in Colab](https://colab.research.google.com/drive/1jCxJLkmW64Db5NunZsQxrDXgszTeJfKk?usp=sharing)
 
----
+
 
 ## 📌 Additional Notes
 
